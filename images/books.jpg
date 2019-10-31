@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>My website</title>
+  <meta charset="utf-8">
+<link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <img src="images/books.jpg"
+    alt="Cat pictue"
+    width="400"
+    height="300" />
+    <section >
+      <h1>Book list </h1>
+      <ol>
+        <li>Charles Dickens</li>
+        <li>E.B White</li>
+        <li>L.M Montgomery</li>
+        <h2>Books To Buy</h2>
+        <ol>
+
+          <li>Bid on Books</li>
+          <li>Buy Books</li>
+          <li>Sell Books</li>
+      </ol>
+    </section>
+<footer id="footer">
+  <p>lookiebookie</p>
+</footer>
+<header>
+  <a href="#footer">Footer</a>
+</header>
+
+
+    <section>
+    <img src="images/cat.jpg"
+    alt="Cat pictue"/>
+    </section>
+      <a href="https://www.sothebys.com" target="_blank">
+      Sothebys
+      </a>
+    </body>
+
+  </html>
