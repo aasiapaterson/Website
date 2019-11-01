@@ -2,22 +2,89 @@
 
 *{
   font-size: 100%
+ line-height: 1;
+ /*border: 1px sold red; */
 }
-p {
+body{
+  background-image: url(images/background.png);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center;
+  color: black;
+  font-family: Helvetica;
+  font-size: 16px
+  margin: 50px
+}
+
+h1{
+  font-size: 36px;
+  }
+
+h2{
+  font-size: 24px;
+  }
+
+h3{
+  font-size: 18px;
+}
 
  p {
   color: green;
+   line-height: 2;
 }
 
-body{
-background-color: grey;
-color: black;
-}
 h1 {
-  color: blue;
+  color: black;
 }
  h2 {
-font :family: 'Lato', Arila , Sans-serfi;
+font :family: Sans-serfi;
 background-color: grey; */
    color: black;
  }
+
+h1, h2, h3 {
+   font-weight: normal;
+}
+
+ h1 {
+    text-align: left;
+  }
+
+header h1 {
+    text-align: center;
+  }
+
+a {
+  color; blue;
+  text-decoration: none;
+}
+a{
+  text-decoration: none;
+  color: blue;
+  }
+
+  a:hover {
+    text-decoration: underline;
+  }
+
+  a: link
+  a: focus
+  a: active {
+    text-decoration: none;
+    color: red;
+    }
+
+    a: hover {
+      text-decoration: underline;
+    }
+
+    a: visited {
+      color: grey;
+      }
+* {
+  font- size: 100%;
+boarder: 1px solid red;
+}
+* {
+  font-size: 100%;
+}

@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+    <meta charset="utf-8">
+        <link rel="stylesheet" href="style.css">
+
+<header>
+                <div class= "container">
+                <div class= "banner">
+                        <h1>Kitkatla Warriors</h1>
+</header>
+
+<footer>
+
+</footer>
+
+    <head>
+        <title>Gitxaala Nation: Kitkatla Warriors</title>
+    </head>
+
+
+
+<body>
+
+    <section>
+
+        <h1></h1>
+        <h2></h2>
+        <h3></h3>
+
+    </section>
+
+    <section>
+
+        <h1></h1>
+        <h2></h2>
+        <h3></h3>
+
+    </section>
+
+    <section>
+
+        <h1></h1>
+        <h2></h2>
+        <h3></h3>
+
+    </section>
+
+    <section>
+
+        <h3>Credits</h3>
+            <p>pink lady pic from https://www.facebook.com/PinkLadyApplesMalaysia/photos/a.873998392664350/2205331739531002/?type=1&theater</>=p>
+            <p></>=p>
+            <p></>=p>
+    </section>
+<section></section>
+
+</footer>
+<a href="#header">Header</a>
+</section>
+
+</body>
+<!--bookielookie: <iframe width="560" height="315" src="https://www.youtube.com/embed/Va1B0HrOhSw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+
+</html>
